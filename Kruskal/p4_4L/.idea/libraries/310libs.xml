@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="310libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/310libs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

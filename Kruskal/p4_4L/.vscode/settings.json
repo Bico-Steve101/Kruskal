@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "p4_template/310libs.jar",
+        "310libs.jar"
+    ]
+}
